@@ -1,5 +1,7 @@
 # `sixel_decode`
 
+![](https://raw.githubusercontent.com/ctrlcctrlv/sixel_decode/main/doc/screenshot.png)
+
 This utility dumps the palette of a file that is sixel encoded and outputs an RGB bitmap with no header.
 
 If output specified, you'll get width and height on stdout separated by <kbd>x</kbd>, like `32x32`.
